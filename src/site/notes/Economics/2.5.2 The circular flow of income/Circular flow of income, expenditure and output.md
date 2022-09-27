@@ -5,7 +5,7 @@
 
 # Circular flow of income, expenditure and output
 
-### Sections:
+### Content:
 - [[Economics/2.5.2 The circular flow of income/The circular flow of income|The circular flow of income]]
 - [[Economics/2.5.2 The circular flow of income/Injections and Withdrawals|Injections and Withdrawals]]
 - [[Economics/2.5.2 The circular flow of income/Bathtub Example|Bathtub Example]]
