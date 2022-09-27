@@ -6,3 +6,8 @@
 # Petar's Notebook
 
 [[Timetable|Timetable]]
+
+## Subjects:
+- [[Computer Science/Computer Science|Computer Science]]
+- [[Politics/Politics|Politics]]
+- [[Economics/Economics|Economics]]
