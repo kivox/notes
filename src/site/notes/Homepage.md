@@ -3,6 +3,6 @@
 ---
 
 
-# Homepage
+# Petar's Notebook
 
-This is me testing the digital garden sync.
+[[Timetable|Timetable]]
