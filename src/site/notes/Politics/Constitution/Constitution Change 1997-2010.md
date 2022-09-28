@@ -19,7 +19,6 @@
 
 
 ### Constitutional Reforms under New Labour, 1997 - 2010
-
 | Reform (What was it? Inc. dates) | Positives | Negatives | Far Enough? |
 |---|---|---|---|
 | Devolution |  |  |  |
@@ -29,3 +28,4 @@
 | Freedom of Information Act |  |  |  |
 | House of Lords Reform |  |  |  |
 | Judicial Reform |  |  |  |
+
