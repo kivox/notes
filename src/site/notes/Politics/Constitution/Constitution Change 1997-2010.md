@@ -9,7 +9,6 @@
 	- To describe the changes made to the UK Constitution under the New Labour Government.
 	- To evaluate the impact of these changes.
 
-
 - ### New Labour
 	- Promised constitutional reform under these 4 main aims:
 		1. **Democratisation** - removing undemocratic institutions and processes.
