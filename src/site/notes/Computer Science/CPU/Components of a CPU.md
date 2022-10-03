@@ -47,7 +47,7 @@
 
 -   Operands
 	- An operand is the object of a mathematical operation, i.e., it is the object or quantity that is operated on.
-	- + - /  \*
+	- \+ \- \/  \*
 
 -   Relationship between machine code and assembly language
 	- Assembly language is a low-level programming language . It equates to machine code but is more readable. It can be directly translated into machine code, but it uses mnemonics to represent the instructions to make it easier to understand.
