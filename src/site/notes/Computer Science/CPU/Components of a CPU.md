@@ -40,7 +40,7 @@
 	- The component of the CPU that manages instructions.
 
 -   Assembly language
-	- 
+	- An assembly language is a type of low-level programming language that is intended to communicate directly with a computer's hardware. Unlike machine language, which consists of binary and hexadecimal characters, assembly languages are designed to be readable by humans.
 
 -   Opcodes
 	- An opcode is the portion of a machine language instruction that specifies the operation to be performed. Beside the opcode itself, most instructions also specify the data they will process, in the form of operands.
