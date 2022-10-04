@@ -4,7 +4,6 @@
 
 
 # Components of a CPU
-
 -   MAR
 	- holds the address of the current instruction that is to be fetched from memory, or the address in memory to which data is to be transferred.
 
