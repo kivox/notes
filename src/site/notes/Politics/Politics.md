@@ -5,12 +5,14 @@
 
 # Politics
 
->Examboard: TBD
+>Examboard: Edexcel
 
 # Sections:
+- [[Politics/Essays/Essays|Essays]]
+---
 - [[Politics/Constitution/Constitution|Constitution]]
-- [[Rule of Law|Rule of Law]]
 - [[Politics/Participation Crisis/Participation Crisis|Participation Crisis]]
-- [[Seperation of Powers|Seperation of Powers]]
+- [[Politics/Pressure Groups/Pressure Groups|Pressure Groups]]
+- [[Politics/Widening the Franchise/Widening the Franchise|Widening the Franchise]]
 
 ### [[Politics/Keyterms/Keyterms|Keyterms]]
