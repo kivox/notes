@@ -40,9 +40,11 @@
 
 - ### For:
 	- Lets the people have a say
-	- 
+	- `Purity` of democracy
+	- Seeking approval from the people
 
 - ### Against:
 	- With low voter turnout, it is not democratic, as only those who wanted involvement voted.
 	- Makes decision making slower, waiting on electorate to vote.
 	- Decision can be swayed, due to the excessive spread of social media
+
