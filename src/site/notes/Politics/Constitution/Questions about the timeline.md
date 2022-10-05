@@ -16,4 +16,3 @@
 - European Communities Act 
 
 ##### Which developments specifically affected the distribution of sovereignty?
-
