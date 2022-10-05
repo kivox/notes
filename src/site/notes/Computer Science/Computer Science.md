@@ -9,6 +9,6 @@
 
 - ### Sections:
 	- [[Computer Science/Challenges/Challenges|Challenges]]
-	- [[Computer Science/IO & Storage Devices/IO and Storage Devices|IO and Storage Devices]]
+	- [[Computer Science/IO and Storage/IO and Storage Devices|IO and Storage Devices]]
 	- [[Computer Science/Databases/Databases|Databases]]
 	- [[Computer Science/CPU/CPU|CPU]]
