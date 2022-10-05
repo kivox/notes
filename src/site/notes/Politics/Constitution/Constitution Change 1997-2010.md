@@ -19,12 +19,13 @@
 
 ### Constitutional Reforms under New Labour, 1997 - 2010
 | Reform (What was it? Inc. dates) | Positives | Negatives | Far Enough? |
-|---|---|---|---|
-| Devolution |  |  |  |
-| Electoral Reform |  |  |  |
-| Referendums |  |  |  |
-| Human Rights Act |  |  |  |
-| Freedom of Information Act |  |  |  |
-| House of Lords Reform |  |  |  |
-| Judicial Reform |  |  |  |
+| -------------------------------- | --------- | --------- | ----------- |
+| Devolution                       |           |           |             |
+| Electoral Reform                 |           |           |             |
+| Referendums                      |           |           |             |
+| Human Rights Act                 |           |           |             |
+| Freedom of Information Act       |           |           |             |
+| House of Lords Reform            |           |           |             |
+| Judicial Reform                  |           |           |             |
+| Fixed Term Parliament Act |           |           |             |
 
