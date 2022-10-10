@@ -61,6 +61,50 @@
 09 HLT
 ```
 
+
+# Part 2
+### Task 1:
+Ask the user for two numbers and print out the biggest
+```
+INP
+STA 99
+INP
+STA 98
+SUB 99
+BRP isPositive
+LDA 99
+BRA end
+isPositive LDA 98
+end OUT
+HLT
 ```
 
+### Task 2:
+Ask the user for two numbers, If they are the same then print 0, otherwise add them and print out the answer
+```
+INP
+STA 99
+INP
+STA 98
+SUB 99
+BRZ isZero
+LDA 99
+ADD 98
+isZero OUT
+HLT
+```
+
+### Task 3:
+Ask the user for one larger number and one factor of that number (e.g. 15 and 3, 20 and 5). The program should keep subtracting the smaller number until it reaches 0 - where it should print out 0.
+```
+INP
+STA 99
+INP
+STA 98
+LDA 99
+loop SUB 98
+BRZ isZero
+BRP loop
+isZero OUT
+HLT
 ```
