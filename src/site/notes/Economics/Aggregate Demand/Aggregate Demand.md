@@ -3,6 +3,8 @@
 ---
 
 
+> "The potential output of all goods and services that are produced within an economy over a period of time."
+
 # Aggregate Demand
 - In microeconomics, the focus of a demand curve is on an individual product in its relationship with its own price.
 - When we consider demand within a macroeconomic context, we refer to it as aggregate demand.
