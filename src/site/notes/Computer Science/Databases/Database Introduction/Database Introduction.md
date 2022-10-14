@@ -13,5 +13,5 @@
 	- [[Computer Science/Databases/Database Introduction/NoSQL Issues|NoSQL Issues]]
 	- [[Computer Science/Databases/Database Introduction/Record|Record]]
 	- [[Computer Science/Databases/Database Introduction/SQL|SQL]]
-	- [[Computer Science/Databases/Database Introduction/Types|Types]]
+	- [[Computer Science/Databases/Database Introduction/Database Types|Database Types]]
 	- [[Computer Science/Databases/Database Introduction/Validation|Validation]]
