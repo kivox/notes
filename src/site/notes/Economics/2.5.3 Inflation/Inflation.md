@@ -79,6 +79,33 @@
 	- Changes in indirect taxes and subsidies
 	- Changes in environmental taxes
 
+### Causes of inflation, in detail:
+- Cost-push inflation
+	- Inflation may be initiated on the supply side of the macroeconomy, arising from an increase in the costs faced by firms – this could be as a result of oil prices increasing or wage costs going up. Remember, to represent this diagrammatically you would only draw a SRAS, as increases in costs of production do not shift LRAS.
+- Demand-pull Inflation:
+	- Increases in price level initiated by an increase in aggregate demand, which can be caused by an increase in any of the components of aggregate demand.
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+# Why is it desirable/important for the economy to have low inflation?
+1. **International Competitiveness**: High inflation would mean that UK goods/services are becoming more expensive (relative to other countries) and therefore less competitive, this would cause a fall in demand for UK goods and so the current account balance will deteriorate, exporting firms may lay workers off leading to an increase in unemployment and a fall in economic growth.
+2. **Business Confidence**: A stable economy means firms can invest more as it is easier to predict the price of their good/services in the future, so it is easier to predict future sales and so investment increases. Increased investment is important for economic growth e.g. increases in real GDP and UK firms will become more competitive with innovative products/processes. Innovative processes can lead to a fall in average costs. (Investment may also take the form of increasing human capital e.g. training and education which boosts productivity).
+3. **Interest Rates**: Low inflation may mean that the Bank of England can lower interest rates to stimulate the economy if they need to - lower interest rates will encourage consumption, investment, and they will also make the value of the pound lower which makes UK exports cheaper and imports to the UK are more expensive.
+4. **Menu Costs**: If prices increase rapidly, then firms have to keep amending their price lists – printing labels, altering computer systems. These increase costs of production and are known as menu costs.
+5. **Distorts normal economic behaviour**: Very high inflation discourages people from holding money, because if the average price level of goods/services in the economy keeps increasing, the value of money is eroded. This leads to people putting all of their money into bank accounts, where they can at least gain some interest to combat inflation. When this happens consumption grinds to a halt.
+6. **Income in real terms**: The impact of inflation can be worsened if wages and pensions fail to increase at the same time, meaning that people will received a pay cut in real terms - which will cause a reduction in consumption. If taxes do not keep up with inflation, then the value of the government’s tax revenue will fall – as everything that the government has to pay for also increases; at which point, the government may start to physically print money to resolve the situation – increasing inflation even further!
+7. **Wage price spiral**: With higher inflation, workers see their real incomes fall and so bid for higher wages from their employers. This in turn leads to higher costs (cost push inflation) and further spending (demand-pull).
+
 </div></div>
 
 
