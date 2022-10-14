@@ -15,3 +15,9 @@
 	- Changes in regulated prices e.g water bills
 	- Changes in indirect taxes and subsidies
 	- Changes in environmental taxes
+
+### Causes of inflation, in detail:
+- Cost-push inflation
+	- Inflation may be initiated on the supply side of the macroeconomy, arising from an increase in the costs faced by firms – this could be as a result of oil prices increasing or wage costs going up. Remember, to represent this diagrammatically you would only draw a SRAS, as increases in costs of production do not shift LRAS.
+- Demand-pull Inflation:
+	- Increases in price level initiated by an increase in aggregate demand, which can be caused by an increase in any of the components of aggregate demand.
