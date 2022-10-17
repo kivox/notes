@@ -10,3 +10,20 @@
 - Devolution = "a process, not an event" 
 - Students need a greater awareness asymmetrically (unbalanced/lop-sided) nature of devolution.
 
+
+| Scotland                                                            | Wales | Northern Ireland |
+| ------------------------------------------------------------------- | ----- | ---------------- |
+| Business Rates                                                      |       |                  |
+| Income tax (non-saving, non-dividends)                              |       |                  |
+| Corporation tax                                                     |       |                  |
+| Air passenger duty                                                  |       |                  |
+| Landbill Tax                                                        |       |                  |
+| Stamp duty land tax                                                 |       |                  |
+| Aggregates levy                                                     |       |                  |
+| Welfare                                                             |       |                  |
+| VAT (Assignment of revenues, not devolution of powers over the tax) |       |                  |                                                                    |       |                  |
+
+Holyrood - Scotland
+Senedd - Wales
+Stormont - Northern Ireland
+
