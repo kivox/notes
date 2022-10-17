@@ -27,7 +27,7 @@
 - The impact of inflation on individuals:
 	- Loss of real income
 	- Savers and Borrowers
-
+### Content:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -53,7 +53,6 @@
 
 
 </div></div>
-
 
  
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -88,7 +87,6 @@
 </div></div>
 
 
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -107,7 +105,6 @@
 7. **Wage price spiral**: With higher inflation, workers see their real incomes fall and so bid for higher wages from their employers. This in turn leads to higher costs (cost push inflation) and further spending (demand-pull).
 
 </div></div>
-
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -135,7 +132,6 @@
 </div></div>
 
 
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -154,3 +150,4 @@
 - The reality is that when certain goods become significantly more expensive, many consumers find less-expensive alternatives to them. For instance, buying the store brand instead of the name brand, or buying regular gasoline instead of premium grade. CPI instead presents numbers that go on assuming consumers are continuing to buy the same amount of increasingly expensive goods.
 
 </div></div>
+
