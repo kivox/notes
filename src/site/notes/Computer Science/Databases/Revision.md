@@ -69,6 +69,11 @@
 	- Referential Integrity
 		- Referential integrity is a property of data stating that all its references are valid. In the context of relational databases, it requires that if a value of one attribute (column) of a relation (table) references a value of another attribute (either in the same or a different relation), then the referenced value must exist.
 		- In simpler terms, making sure all relations in a database are valid, you can't create a project attached to a user if the user doesn't exist.
+		- From markscheme
+			- Ensuring that changes are consistent across a database
+			- If a record is removed all references to it are removed
+			- A foreign key value must have a corresponding Primary key value in another table.
+			- In this case, a user being removed will result in their reviews being removed / a restaurant being removed will result in its reviews being removed.
 	- Transaction Processing
 		- Transaction processing is information processing that is divided into individual, indivisible operations called transactions.
 		- Each transaction must succeed or fail as a complete unit; it can never be only partially complete.
@@ -95,8 +100,8 @@
 			- A simple way to prevent this is to lock the file whenever a record is being modified by any user, so that no other user can save data.
 				- This prevents records from being overwritten incorrectly, but allows only one record to be processed at a time, locking out other users who need to edit records at the same time.
 	- Redundancy
-		- Data redundancy often refers to having the same data stored multiple times. This is useful in case of corruption and dataloss, but in terms of databases it makes them worse at what they do, you would have to update all occurances of data, to update that piece of data. It takes up more storage, it works against the rules of Normalisation
-		- However, Data Redundancy has another meaning aswell, keeping a backup of data incase of an unlikely occurance such as dataloss.
+		- Data redundancy often refers to having the same data stored multiple times. This is useful in case of corruption and dataloss, but in terms of databases it makes them worse at what they do, you would have to update all occurances of data, to update that piece of data. It takes up more storage, it works against the rules of the normal forms.
+		- It is advised to avoid data redundancy within relational databases, however, Data Redundancy has another meaning aswell, keeping a backup of data incase of an unlikely occurance such as dataloss.
 
 Create a Database
 ```sql
