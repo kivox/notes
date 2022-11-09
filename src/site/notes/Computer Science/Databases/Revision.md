@@ -25,7 +25,6 @@
 			- Entity Relationship Model is a high-level conceptual data model diagram.
 			- ER model helps to draw out an environment based on data requirements to produce a well-designed database.
 			- The ER Model represents entities and the relationships between them.
-		- Normalization and indexing
 	- Methods of Capturing, Selecting, Managing and Exchanging Data
 		- [SQL Keywords](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 			- CREATE
@@ -51,7 +50,6 @@
 				- Specifies the number of records to return in the result set
 			- ORDER BY
 				- Sorts the result set in ascending or descending order
-		- 
 	- Normalization
 		- Database normalization is the process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity.
 	- Normal Forms
@@ -97,7 +95,8 @@
 			- A simple way to prevent this is to lock the file whenever a record is being modified by any user, so that no other user can save data.
 				- This prevents records from being overwritten incorrectly, but allows only one record to be processed at a time, locking out other users who need to edit records at the same time.
 	- Redundancy
-		- Data redundancy refers to the practice of keeping data in two or more places within a database or data storage system. Data redundancy ensures an organization can provide continued operations or services in the event something happens to its data -- for example, in the case of data corruption or data loss.
+		- Data redundancy often refers to having the same data stored multiple times. This is useful in case of corruption and dataloss, but in terms of databases it makes them worse at what they do, you would have to update all occurances of data, to update that piece of data. It takes up more storage, it works against the rules of Normalisation
+		- However, Data Redundancy has another meaning aswell, keeping a backup of data incase of an unlikely occurance such as dataloss.
 
 Create a Database
 ```sql
@@ -113,9 +112,9 @@ Create a record inside database
 INSERT INTO Users (ID, Firstname, Lastname) VALUES (1, "Petar", "Markov")
 ```
 
-Delete user from database
+Update record in database
 ```sql
-DELETE FROM Users WHERE ID = 1;
+UPDATE Users SET Firstname = “Peter” WHERE User = 1;
 ```
 
 Add a data field into database
@@ -123,7 +122,7 @@ Add a data field into database
 ALTER TABLE Users ADD Grade varchar(1);
 ```
 
-Update record in database
+Delete user from database
 ```sql
-UPDATE Users SET Firstname = “Peter” WHERE User = 1;
+DELETE FROM Users WHERE ID = 1;
 ```
