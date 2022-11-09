@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/timetable/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"/timetable","permalink":"/timetable/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
