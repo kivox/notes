@@ -12,3 +12,13 @@
 - 2.5.1 - [[Economics/2.5.1 The Economic Cycle/The Economic Cycle|The Economic Cycle]]
 - 2.5.2 - [[Economics/2.5.2 The circular flow of income/Circular flow of income, expenditure and output|Circular flow of income, expenditure and output]]
 - 2.5.3 - [[Economics/2.5.3 Inflation/Inflation|Inflation]]
+
+| Luxury              | Necessity             | Inferior          |
+| ------------------- | --------------------- | ----------------- |
+| Air Travel          | Fresh Vegetables      | Frozen Vegetables |
+| Fine wines          | Instant Coffee        | Cigarettes        |
+| Luxury Chocolate    | Natural Cheese        | Processed Cheese  |
+| Private Education   | Fruit Juice           | Margarine         |
+| Private Health Care | Spending on utilities | Tinned Meat       |
+| Designer Clothes    | Toothpaste/Shampoo... | Bus travel        |
+| Antique Furniture   |                       | Own brand bread   | 
