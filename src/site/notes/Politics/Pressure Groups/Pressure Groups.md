@@ -14,7 +14,7 @@
 Pressure groups are categorized in different ways  interest or cause groups and insider or outsider groups.
 
 ### Content:
-- 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
