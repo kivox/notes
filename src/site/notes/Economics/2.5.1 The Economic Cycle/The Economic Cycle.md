@@ -7,7 +7,6 @@
 - Characteristics of a [[Economics/2.5.1 The Economic Cycle/Boom|Boom]]
 - Characteristics of a [[Economics/2.5.1 The Economic Cycle/Recession|Recession]]
 - Implications for firms of fluctuntions in economic activity
-
 	- [[Economics/2.5.1 The Economic Cycle/Boom|Boom]]
 	- [[Economics/2.5.1 The Economic Cycle/Slowdown|Slowdown]]
 	- [[Economics/2.5.1 The Economic Cycle/Recession|Recession]]
